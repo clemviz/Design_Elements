@@ -52,7 +52,7 @@ DEFINE
 ```
 #### Call the function
 Call the function in a measure
-```DAX
+```sql
 background_example = 
 // background with 50% opacity and rounded corners at 50px
 background_html_blur(0.5, 50)
